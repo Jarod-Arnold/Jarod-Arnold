@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**Jarod-Arnold/Jarod-Arnold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi there, my name is Jarod Arnold, a casual coder who is pursuing my Associates Degree in <b>Cybersecurity</b>. 
 
-Here are some ideas to get you started:
+I am enthusiastic about learning new technology. In recent years I have been studying Python, HTML, and CSS. 
+I enjoy testing my limits in python to see what programs I can come up with. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside the world of tech I enjoy delving out into nature and doing photography, expanding my love and understanding of music, 
+and working on my property. 
+
+## Achievements
+* President's List @ PCC
+* Lead the creation of training programs at various jobs
+
+## Current Goals
+* Further my understanding of Python
+* Continue studies on Cybersecurity
+* Find a job in the Tech Industry
+
+
+## 📫 How to reach me: jarod.a.github@gmail.com
+
